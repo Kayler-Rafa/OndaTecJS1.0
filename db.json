@@ -1,0 +1,31 @@
+{
+  "Estudante": [
+    {
+      "Id": 1,
+      "CPF_Aluno": "12345678910",
+      "Nome": "Rafael Diniz",
+      "email": "exemplo@example.com",
+      "Nvl_Aluno": 1
+    }
+  ],
+  "Certificado": [
+    {
+      "Id": 1,
+      "CPF_Aluno": "12345678910",
+      "Id_Curso": 1,
+      "Descricao": "Ceritifado de conclusão do curso de informática",
+      "Data": "01/01/2022"
+    }
+  ],
+  "Curso": [
+    {
+      "Id_Curso": 1,
+      "Cod_Nvl": 1,
+      "Artigos": "1.1 Artigo Científico sobre informática",
+      "Carga_Hoeaeia": "5 Horas",
+      "Conteudos": "Excel, Word, PowerPoint e Canva",
+      "Nvl_Curso": "5"
+      
+    }
+  ]
+}
